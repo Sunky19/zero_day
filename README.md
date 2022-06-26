@@ -1,1 +1,1 @@
-This file ismandatory [D[D[D[D[D[D[D[D[D[D mandatory in projects
+This file is mandatory in projects
